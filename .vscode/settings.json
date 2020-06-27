@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.cu": "cpp",
+        "*.makefile": "makefile",
+        "*.c": "c",
+        "*.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c"
+    }
+}
